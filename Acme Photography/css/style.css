@@ -1,0 +1,162 @@
+body {
+  background-color: #1d1d1d !important;
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* Navbar */
+nav {
+  padding: 0.5em;
+  background: #1d1d1d;
+  margin: 0;
+}
+
+nav a {
+  font-size: 1.2em;
+  text-decoration: none;
+  background-color: #1d1d1d;
+  color: #fff;
+  border: 0.5px solid #d4a259;
+  margin: 0.5em 0.5em;
+  border-radius: 5%;
+}
+
+nav a:hover {
+  background-color: #d4a259;
+  color: #1d1d1d;
+  border: 0.5px solid #fff;
+}
+
+/* Header */
+.about {
+  border-radius: 10px;
+  opacity: 0.8;
+}
+/* Section-a */
+
+#section-a {
+  color: #1d1d1d;
+  padding: 1em;
+  margin: 1em auto;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 0.3em;
+  font-size: 3em;
+}
+
+.container p {
+  padding: 1em;
+  text-align: center;
+  color: #fff;
+  font-size: 1.2em;
+}
+
+/* Card Rows */
+.card {
+  margin: 1em;
+  padding: 0.3em;
+}
+
+/* Section-b */
+#section-b {
+  padding: 1em;
+  margin: 1em auto;
+}
+
+/* Section-c */
+#section-c {
+  background: #1d1d1d;
+  margin: 1em auto;
+}
+
+.card2 {
+  background: #1d1d1d;
+  margin: 1em auto;
+  border-radius: 0.4em;
+  border: 0.5px solid #d4a259;
+  text-align: center;
+}
+
+.card-title {
+  color: #fff;
+  font-size: 1.5em;
+  padding-top: 1em;
+}
+
+h3 {
+  color: #d4a259;
+}
+
+.card-body {
+  color: #fff;
+}
+
+i {
+  color: #fff;
+  font-size: 10em;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  background: #1d1d1d;
+  color: #fff;
+  margin: 1em;
+}
+
+button:hover {
+  background: #d4a259;
+  color: #1d1d1d;
+  border: 0.5px solid #fff;
+}
+
+.btn {
+  border: 0.5px solid #d4a259;
+  padding: 0.5em 2em;
+}
+
+/* Footer */
+footer {
+  background: #d4a259;
+  margin: 0;
+}
+
+li a {
+  text-decoration: none;
+  color: #1d1d1d;
+}
+
+li a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+a i {
+  font-size: 1.2em;
+  padding: 1em 0.1em;
+}
+
+a i:hover {
+  color: #1d1d1d;
+}
+
+.container-fluid p {
+  color: #fff;
+  padding-bottom: 10px;
+}
+
+.container-fluid p a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.container-fluid p a:hover {
+  text-decoration: none;
+  color: #1d1d1d;
+}
